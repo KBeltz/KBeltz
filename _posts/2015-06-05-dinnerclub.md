@@ -2,7 +2,7 @@
 layout: post
 title: "Dinner Club"
 date: 2015-06-05
-categories: code, technical, omahacodeschool
+categories: code technical omahacodeschool
 ---
 
 The assignment was to write a program that collects member names, restaurant names, and meal totals to track outings for a dinner club. The program should also include the ability to track attendance even if one member chose to pay for the entire meal.
