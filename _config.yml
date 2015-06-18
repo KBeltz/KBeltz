@@ -2,7 +2,7 @@
 title: Kikki's Blog
 email: beltz08@me.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, this is my blog.
+  This blog is currently documenting my challenges and successes in Omaha Code School.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
