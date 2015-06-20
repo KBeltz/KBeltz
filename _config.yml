@@ -4,7 +4,7 @@ email: beltz08@me.com
 description: > # this means to ignore newlines until "baseurl:"
   This blog is currently documenting my challenges and successes in Omaha Code School.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://github.com/KBeltz/KBeltz.github.io.git" # the base hostname & protocol for your site
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 twitter_username: thesicksaddaria
 github_username:  KBeltz
